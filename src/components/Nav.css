@@ -1,0 +1,17 @@
+
+.navlink {
+  text-decoration: none;
+  color: #637b14;
+  font-size: 25px;
+  margin-top: -25px;
+  margin-left: 10px;
+  border: 5px solid #ff8902;
+  border-style: double;
+}
+
+.navlink:hover {
+  color: #ff8902;
+  text-decoration: none;
+  border: 5px solid #637b14;
+  border-style: double;
+}
